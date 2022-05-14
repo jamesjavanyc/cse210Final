@@ -76,3 +76,4 @@ class Game:
                     self.player.add_score()
                 else:
                     self.player.deduct_score()
+                    banner.set_text(item.get_message())

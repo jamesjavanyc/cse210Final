@@ -12,3 +12,6 @@ class Rock(Actor):
         super().__init__()
         self.set_text("o")
         self.set_velocity(Point(0, 1))
+
+    def get_message(self):
+        return "You hit a rock!"
