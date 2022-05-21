@@ -3,7 +3,7 @@
 # @Author  : Junzhou Liu
 # @FileName: controller.py
 # @Software: PyCharm
-from github.greedy.controller.game import Game
+from greedy.controller.game import Game
 
 
 class Controller:

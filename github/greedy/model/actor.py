@@ -3,8 +3,8 @@
 # @Author  : Junzhou Liu
 # @FileName: actor.py
 # @Software: PyCharm
-from github.greedy.infra.color import Color
-from github.greedy.infra.point import Point
+from greedy.infra.color import Color
+from greedy.infra.point import Point
 
 
 class Actor:

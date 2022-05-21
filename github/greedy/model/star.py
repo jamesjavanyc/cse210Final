@@ -3,8 +3,8 @@
 # @Author  : Junzhou Liu
 # @FileName: star.py
 # @Software: PyCharm
-from github.greedy.model.actor import Actor
-from github.greedy.infra.point import Point
+from greedy.model.actor import Actor
+from greedy.infra.point import Point
 
 
 class Star(Actor):

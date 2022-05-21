@@ -5,7 +5,7 @@
 # @Software: PyCharm
 import pyray
 
-from github.greedy.infra.point import Point
+from greedy.infra.point import Point
 
 
 class KeyboardService:

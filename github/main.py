@@ -3,9 +3,9 @@
 # @Author  : Junzhou Liu
 # @FileName: main.py
 # @Software: PyCharm
-from github.greedy.controller.controller import Controller
-from github.greedy.view.keyboard import KeyboardService
-from github.greedy.view.video import VideoService
+from greedy.controller.controller import Controller
+from greedy.view.keyboard import KeyboardService
+from greedy.view.video import VideoService
 
 FRAME_RATE = 12
 MAX_X = 900

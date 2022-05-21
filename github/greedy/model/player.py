@@ -3,9 +3,9 @@
 # @Author  : Junzhou Liu
 # @FileName: player.py
 # @Software: PyCharm
-from github.greedy.infra.color import Color
-from github.greedy.infra.point import Point
-from github.greedy.model.actor import Actor
+from greedy.infra.color import Color
+from greedy.infra.point import Point
+from greedy.model.actor import Actor
 
 
 class Player(Actor):

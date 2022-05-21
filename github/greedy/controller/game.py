@@ -5,11 +5,11 @@
 # @Software: PyCharm
 import os
 
-from github.greedy.infra.color import Color
-from github.greedy.infra.point import Point
-from github.greedy.model.actor import Actor
-from github.greedy.model.cage import Cage
-from github.greedy.model.player import Player
+from greedy.infra.color import Color
+from greedy.infra.point import Point
+from greedy.model.actor import Actor
+from greedy.model.cage import Cage
+from greedy.model.player import Player
 
 
 class Game:

@@ -5,10 +5,10 @@
 # @Software: PyCharm
 import random
 
-from github.greedy.infra.color import Color
-from github.greedy.infra.point import Point
-from github.greedy.model.rock import Rock
-from github.greedy.model.star import Star
+from greedy.infra.color import Color
+from greedy.infra.point import Point
+from greedy.model.rock import Rock
+from greedy.model.star import Star
 
 
 class Cage:
