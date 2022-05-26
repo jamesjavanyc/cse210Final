@@ -3,3 +3,6 @@
 # @Author  : Junzhou Liu
 # @FileName: action_callback.py
 # @Software: PyCharm
+class ActionCallback:
+    def init_game(self, game, keyboard_service, video_service):
+        raise NotImplementedError()

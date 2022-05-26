@@ -14,7 +14,7 @@ class EndAction(Action):
     def execute(self, cast, script):
         game = cast["game"]
         if game.player.get_score() < 0 or game.player.life <= 0:
-        # Exceeding observer
+            # Exceeding observer
             game.banner_score.set_text("Game Over")
             game.banner_score.set_font_size(55)
             game.banner_score.set_color(Color(255, 255, 255))
